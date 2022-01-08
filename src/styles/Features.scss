@@ -1,0 +1,21 @@
+section.features-section{
+    background: black;
+    color: white;
+}
+
+ul.features-list{
+    margin:0;
+    display: flex;
+    
+    li{
+        p{
+            font-size: 1.2rem;
+        }
+        h1{
+            font-size: 2rem;
+        }
+        margin-bottom: 1em;
+        margin-left: 2em;
+        position: relative;
+    }
+}

@@ -1,0 +1,123 @@
+section.how-olympus-works-section {
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
+  width: 100%;
+  max-width: 1280px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+section.how-olympus-works-section .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+section.how-olympus-works-section .arrow-right {
+  max-width: 20em;
+  height: 150px;
+  vertical-align: middle;
+}
+
+section.how-olympus-works-section h2 {
+  font-size: 3.75rem;
+}
+
+section.how-olympus-works-section h3 {
+  color: #030303;
+  font-weight: 600;
+  font-size: 2rem;
+  line-height: 1.1;
+  margin-bottom: 1rem;
+}
+
+section.how-olympus-works-section h5 {
+  color: grey;
+  font-size: 20px;
+  line-height: 1.1;
+  font-weight: 600;
+}
+
+section.how-olympus-works-section h5 span.number {
+  width: 32px;
+  height: 32px;
+  margin-right: 8px;
+  font-size: 20px;
+  color: #737373;
+  background-color: #e6e6e6;
+  border-radius: 50%;
+}
+
+section.how-olympus-works-section p {
+  max-width: 20rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  line-height: 1.7;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+section.how-olympus-works-section .row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  vertical-align: middle;
+}
+
+section.how-olympus-works-section .row .left-col {
+  max-width: 20rem;
+}
+
+section.how-olympus-works-section .row .right-col .image {
+  height: 170px;
+  margin-left: 8rem;
+  margin-top: 8rem;
+}
+
+section.how-olympus-works-section .row-2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+section.how-olympus-works-section .row-2 .arrow {
+  width: 60%;
+  height: auto;
+  margin-top: 10px;
+}
+
+section.how-olympus-works-section .row-2 .content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+section.how-olympus-works-section .row-2 .left-col .image {
+  height: 170px;
+  margin-left: 8rem;
+  margin-top: 8rem;
+}
+
+section.how-olympus-works-section .row-2 .right-col {
+  max-width: 20rem;
+}
+/*# sourceMappingURL=HowOlympusWorks.css.map */

@@ -1,0 +1,16 @@
+.button{
+    border-radius: 8rem;
+    background-color: #ffc768;
+    color: black;
+    padding: 10px;
+    font-size: .875rem;
+    font-weight: bold;
+    text-decoration: none;
+    transition: 0.7s;
+    a{
+        color: black;
+    }
+    &:hover{
+        background-color: #d8a349;
+    }
+}

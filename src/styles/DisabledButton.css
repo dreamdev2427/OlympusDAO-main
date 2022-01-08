@@ -1,0 +1,27 @@
+.disabled-button {
+  border-radius: 8rem;
+  background-color: white;
+  color: black;
+  padding: 20px;
+  width: auto;
+  max-width: 15em;
+  -webkit-transition: 0.7s;
+  transition: 0.7s;
+}
+
+.disabled-button span {
+  color: #607286;
+}
+
+.disabled-button:hover {
+  background-color: #d8a349;
+  cursor: not-allowed;
+}
+
+a {
+  text-align: center;
+  margin: auto;
+  color: black;
+  text-decoration: none;
+}
+/*# sourceMappingURL=DisabledButton.css.map */

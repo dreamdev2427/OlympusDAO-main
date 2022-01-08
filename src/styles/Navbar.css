@@ -1,0 +1,67 @@
+:root {
+  --primary-color: #007af3;
+}
+
+.navbar {
+  background: rgba(0, 0, 0, 0.3);
+  padding: 1em 20em;
+}
+
+.navbar .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  place-content: space-between;
+}
+
+.navbar .container .logo {
+  max-width: 8vw;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+ul li a {
+  text-decoration: none;
+  padding: .8em;
+  font-size: 1.3em;
+  color: black;
+  text-align: center;
+  display: block;
+}
+
+ul li a:hover {
+  color: gainsboro;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+ul li .enter-app {
+  border-radius: 8rem;
+  background: #ffc768;
+  padding: 8px 16px;
+}
+
+ul li .enter-app:hover {
+  color: black;
+  background: #e2ad50;
+  -webkit-transition: .2s;
+  transition: .2s;
+}
+/*# sourceMappingURL=Navbar.css.map */

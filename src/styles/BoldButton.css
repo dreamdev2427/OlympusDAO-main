@@ -1,0 +1,22 @@
+.bold-button {
+  border-radius: 8rem;
+  background-color: #ffc768;
+  color: black;
+  padding: 20px;
+  width: auto;
+  max-width: 10em;
+  -webkit-transition: 0.7s;
+  transition: 0.7s;
+}
+
+.bold-button:hover {
+  background-color: #d8a349;
+}
+
+a {
+  text-align: center;
+  margin: auto;
+  color: black;
+  text-decoration: none;
+}
+/*# sourceMappingURL=BoldButton.css.map */

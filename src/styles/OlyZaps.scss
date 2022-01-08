@@ -1,0 +1,33 @@
+section.olyzaps-section{
+    background: #afbfdc;
+    color: #030303;
+    display: flex;
+    flex-direction: row;
+    height: 55vh;
+
+    .container{
+        h2{
+            font-size: 2.5rem;
+            line-height: 1.1;
+        }
+        p{
+            font-size: 1.5rem;
+            width: 25em;
+            line-height: 1.7;
+            font-weight: 400;
+            color: #2b2b2b;
+        }
+        .options{
+            display: flex;
+            
+            align-items: center;
+        }
+        padding-left: 15em;
+        padding-top: 5em;
+        text-align: left;
+    }
+    .image{
+        margin-left: 20vw;
+        max-width: 30vw;
+    }
+}

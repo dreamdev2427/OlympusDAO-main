@@ -1,0 +1,23 @@
+.disabled-button{
+    border-radius: 8rem;
+    background-color: white;
+    color: black;
+    padding: 20px;
+    width: auto;
+    max-width: 15em;
+    transition: 0.7s;
+    span{
+        color: #607286;
+    }
+    
+    &:hover{
+        background-color: #d8a349;
+        cursor: not-allowed;
+    }
+}
+a{
+    text-align: center;
+    margin: auto;
+    color: black;
+    text-decoration: none;
+}

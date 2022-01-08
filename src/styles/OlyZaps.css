@@ -1,0 +1,46 @@
+section.olyzaps-section {
+  background: #afbfdc;
+  color: #030303;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  height: 55vh;
+}
+
+section.olyzaps-section .container {
+  padding-left: 15em;
+  padding-top: 5em;
+  text-align: left;
+}
+
+section.olyzaps-section .container h2 {
+  font-size: 2.5rem;
+  line-height: 1.1;
+}
+
+section.olyzaps-section .container p {
+  font-size: 1.5rem;
+  width: 25em;
+  line-height: 1.7;
+  font-weight: 400;
+  color: #2b2b2b;
+}
+
+section.olyzaps-section .container .options {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+section.olyzaps-section .image {
+  margin-left: 20vw;
+  max-width: 30vw;
+}
+/*# sourceMappingURL=OlyZaps.css.map */

@@ -1,0 +1,26 @@
+section.features-section {
+  background: black;
+  color: white;
+}
+
+ul.features-list {
+  margin: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+ul.features-list li {
+  margin-bottom: 1em;
+  margin-left: 2em;
+  position: relative;
+}
+
+ul.features-list li p {
+  font-size: 1.2rem;
+}
+
+ul.features-list li h1 {
+  font-size: 2rem;
+}
+/*# sourceMappingURL=Features.css.map */
